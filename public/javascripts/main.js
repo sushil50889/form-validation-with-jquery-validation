@@ -64,7 +64,7 @@ $(document).ready(function() {
         },
 
         messages: {
-            tac: "Please accept our Terms and Conditions"
+            tac: "*Please accept our Terms and Conditions"
         }
     });
 });
